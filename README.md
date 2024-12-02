@@ -11,7 +11,7 @@ This project is a Contact Management System implemented in C, It's a beginner fr
 ## Technologies Used
 - **Programming Language**: C
 - **Data Structures**: Linked Lists, File I/O
-- **IDE**: (mention which one you used, e.g., Code::Blocks, Visual Studio, etc.)
+- **IDE**: (Code Blocks, Visual Studio Code, etc.)
 
 ## How to Run the Project
 1. Clone the repository:
